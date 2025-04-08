@@ -4,30 +4,11 @@
 
 ### Arrays
 
-- Định nghĩa: 
+- Định nghĩa:
 
-- Đặc điểm: 
+- Đặc điểm:
 
-- Độ phức tạp: 
-
-- Triển khai trong Java
-
-```java
-public class Example {
-  public static void main(String[] args) {
-    System.out.println("Hello World");
-  }
-}
-```
-
-
-### Strings 
-
-- Định nghĩa: 
-
-- Đặc điểm: 
-
-- Độ phức tạp: 
+- Độ phức tạp:
 
 - Triển khai trong Java
 
@@ -39,35 +20,33 @@ public class Example {
 }
 ```
 
+[back to top](# DSA)
 
+### Strings
+
+- Định nghĩa:
+
+- Đặc điểm:
+
+- Độ phức tạp:
+
+- Triển khai trong Java
+
+```java
+public class Example {
+  public static void main(String[] args) {
+    System.out.println("Hello World");
+  }
+}
+```
 
 ### Linked Lists
 
-- Định nghĩa: 
+- Định nghĩa:
 
-- Đặc điểm: 
+- Đặc điểm:
 
-- Độ phức tạp: 
-
-- Triển khai trong Java
-
-```java
-public class Example {
-  public static void main(String[] args) {
-    System.out.println("Hello World");
-  }
-}
-```
-
-
-
-### Stacks 
-
-- Định nghĩa: 
-
-- Đặc điểm: 
-
-- Độ phức tạp: 
+- Độ phức tạp:
 
 - Triển khai trong Java
 
@@ -79,15 +58,31 @@ public class Example {
 }
 ```
 
+### Stacks
 
+- Định nghĩa:
+
+- Đặc điểm:
+
+- Độ phức tạp:
+
+- Triển khai trong Java
+
+```java
+public class Example {
+  public static void main(String[] args) {
+    System.out.println("Hello World");
+  }
+}
+```
 
 ### Queues
 
-- Định nghĩa: 
+- Định nghĩa:
 
-- Đặc điểm: 
+- Đặc điểm:
 
-- Độ phức tạp: 
+- Độ phức tạp:
 
 - Triển khai trong Java
 
@@ -98,16 +93,14 @@ public class Example {
   }
 }
 ```
-
-
 
 ### Hash Tables
 
-- Định nghĩa: 
+- Định nghĩa:
 
-- Đặc điểm: 
+- Đặc điểm:
 
-- Độ phức tạp: 
+- Độ phức tạp:
 
 - Triển khai trong Java
 
@@ -118,16 +111,14 @@ public class Example {
   }
 }
 ```
-
-
 
 ### Matrix
 
-- Định nghĩa: 
+- Định nghĩa:
 
-- Đặc điểm: 
+- Đặc điểm:
 
-- Độ phức tạp: 
+- Độ phức tạp:
 
 - Triển khai trong Java
 
@@ -138,36 +129,14 @@ public class Example {
   }
 }
 ```
-
-
 
 ### Trees
 
-- Định nghĩa: 
+- Định nghĩa:
 
-- Đặc điểm: 
+- Đặc điểm:
 
-- Độ phức tạp: 
-
-- Triển khai trong Java
-
-```java
-public class Example {
-  public static void main(String[] args) {
-    System.out.println("Hello World");
-  }
-}
-```
-
-
-
-### Binary Search Trees 
-
-- Định nghĩa: 
-
-- Đặc điểm: 
-
-- Độ phức tạp: 
+- Độ phức tạp:
 
 - Triển khai trong Java
 
@@ -179,15 +148,31 @@ public class Example {
 }
 ```
 
+### Binary Search Trees
 
+- Định nghĩa:
+
+- Đặc điểm:
+
+- Độ phức tạp:
+
+- Triển khai trong Java
+
+```java
+public class Example {
+  public static void main(String[] args) {
+    System.out.println("Hello World");
+  }
+}
+```
 
 ### Heaps
 
-- Định nghĩa: 
+- Định nghĩa:
 
-- Đặc điểm: 
+- Đặc điểm:
 
-- Độ phức tạp: 
+- Độ phức tạp:
 
 - Triển khai trong Java
 
@@ -198,36 +183,14 @@ public class Example {
   }
 }
 ```
-
-
 
 ### Graphs
 
-- Định nghĩa: 
+- Định nghĩa:
 
-- Đặc điểm: 
+- Đặc điểm:
 
-- Độ phức tạp: 
-
-- Triển khai trong Java
-
-```java
-public class Example {
-  public static void main(String[] args) {
-    System.out.println("Hello World");
-  }
-}
-```
-
-
-
-### Trie 
-
-- Định nghĩa: 
-
-- Đặc điểm: 
-
-- Độ phức tạp: 
+- Độ phức tạp:
 
 - Triển khai trong Java
 
@@ -239,15 +202,31 @@ public class Example {
 }
 ```
 
+### Trie
 
+- Định nghĩa:
+
+- Đặc điểm:
+
+- Độ phức tạp:
+
+- Triển khai trong Java
+
+```java
+public class Example {
+  public static void main(String[] args) {
+    System.out.println("Hello World");
+  }
+}
+```
 
 ### Union Find
 
-- Định nghĩa: 
+- Định nghĩa:
 
-- Đặc điểm: 
+- Đặc điểm:
 
-- Độ phức tạp: 
+- Độ phức tạp:
 
 - Triển khai trong Java
 
@@ -258,7 +237,5 @@ public class Example {
   }
 }
 ```
-
-
 
 ## End
