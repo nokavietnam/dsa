@@ -40,6 +40,8 @@ public class Example {
 }
 ```
 
+[back to top](#DSA)
+
 ### Linked Lists
 
 - Định nghĩa:
@@ -57,6 +59,8 @@ public class Example {
   }
 }
 ```
+
+[back to top](#DSA)
 
 ### Stacks
 
@@ -76,6 +80,8 @@ public class Example {
 }
 ```
 
+[back to top](#DSA)
+
 ### Queues
 
 - Định nghĩa:
@@ -93,6 +99,8 @@ public class Example {
   }
 }
 ```
+
+[back to top](#DSA)
 
 ### Hash Tables
 
@@ -112,6 +120,8 @@ public class Example {
 }
 ```
 
+[back to top](#DSA)
+
 ### Matrix
 
 - Định nghĩa:
@@ -129,6 +139,8 @@ public class Example {
   }
 }
 ```
+
+[back to top](#DSA)
 
 ### Trees
 
@@ -148,6 +160,8 @@ public class Example {
 }
 ```
 
+[back to top](#DSA)
+
 ### Binary Search Trees
 
 - Định nghĩa:
@@ -165,6 +179,8 @@ public class Example {
   }
 }
 ```
+
+[back to top](#DSA)
 
 ### Heaps
 
@@ -184,6 +200,8 @@ public class Example {
 }
 ```
 
+[back to top](#DSA)
+
 ### Graphs
 
 - Định nghĩa:
@@ -201,6 +219,8 @@ public class Example {
   }
 }
 ```
+
+[back to top](#DSA)
 
 ### Trie
 
@@ -220,6 +240,8 @@ public class Example {
 }
 ```
 
+[back to top](#DSA)
+
 ### Union Find
 
 - Định nghĩa:
@@ -237,5 +259,7 @@ public class Example {
   }
 }
 ```
+
+[back to top](#DSA)
 
 ## End
