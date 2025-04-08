@@ -20,7 +20,7 @@ public class Example {
 }
 ```
 
-[back to top](# DSA)
+[back to top](#DSA)
 
 ### Strings
 
