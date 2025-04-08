@@ -39,7 +39,7 @@ public class ArrayExample {
 }
 ```
 
-[back to top](#DSA)
+[back to top](#dsa)
 
 ### Strings
 
@@ -65,7 +65,7 @@ public class StringExample {
 }
 ```
 
-[back to top](#DSA)
+[back to top](#dsa)
 
 ### Linked Lists
 
@@ -102,7 +102,7 @@ public class Example {
 }
 ```
 
-[back to top](#DSA)
+[back to top](#dsa)
 
 ### Stacks
 
@@ -122,7 +122,7 @@ public class Example {
 }
 ```
 
-[back to top](#DSA)
+[back to top](#dsa)
 
 ### Queues
 
@@ -142,7 +142,7 @@ public class Example {
 }
 ```
 
-[back to top](#DSA)
+[back to top](#dsa)
 
 ### Hash Tables
 
@@ -162,7 +162,7 @@ public class Example {
 }
 ```
 
-[back to top](#DSA)
+[back to top](#dsa)
 
 ### Matrix
 
@@ -182,7 +182,7 @@ public class Example {
 }
 ```
 
-[back to top](#DSA)
+[back to top](#dsa)
 
 ### Trees
 
@@ -202,7 +202,7 @@ public class Example {
 }
 ```
 
-[back to top](#DSA)
+[back to top](#dsa)
 
 ### Binary Search Trees
 
@@ -222,7 +222,7 @@ public class Example {
 }
 ```
 
-[back to top](#DSA)
+[back to top](#dsa)
 
 ### Heaps
 
@@ -242,7 +242,7 @@ public class Example {
 }
 ```
 
-[back to top](#DSA)
+[back to top](#dsa)
 
 ### Graphs
 
@@ -262,7 +262,7 @@ public class Example {
 }
 ```
 
-[back to top](#DSA)
+[back to top](#dsa)
 
 ### Trie
 
@@ -282,7 +282,7 @@ public class Example {
 }
 ```
 
-[back to top](#DSA)
+[back to top](#dsa)
 
 ### Union Find
 
@@ -302,6 +302,6 @@ public class Example {
 }
 ```
 
-[back to top](#DSA)
+[back to top](#dsa)
 
 ## End
